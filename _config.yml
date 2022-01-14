@@ -18,7 +18,7 @@ url: https://mayanb.github.io  # the base hostname and protocol for your site, e
 
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: "" # the subpath of your site, e.g. /blog
-google_analytics: UA-111111111-1
+google_analytics: G-1DDZW121GV
 twitter:
   username: 
   card: summary #keep this to generate a twitter share card
